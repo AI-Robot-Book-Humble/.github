@@ -2,14 +2,14 @@
 ROS2とPythonで作って学ぶAIロボット入門（Humble版準備中）の公式サポートサイト（作成中）です．<br>  <br> 
 
 - [第1章　AIロボットをつくろう！]
-- [第2章　はじめてのROS2](https://github.com/AI-Robot-Book-Humble/chapter2)
+- [第2章　はじめてのROS2](https://github.com/AI-Robot-Book-Humble/chapter2)（作成中）
 - [第3章　音声認識・合成]
-- [第4章　ナビゲーション](https://github.com/AI-Robot-Book-Humble/chapter4)
+- [第4章　ナビゲーション](https://github.com/AI-Robot-Book-Humble/chapter4)（作成中）
 - [第5章　ビジョン]
 - [第6章　マニピュレーション](https://github.com/AI-Robot-Book-Humble/chapter6)
 - [第7章　プランニング]
-- [付録A　ローンチファイルの書き方](https://github.com/AI-Robot-Book-Humble/appendixA)
-- [付録B　アクション通信](https://github.com/AI-Robot-Book-Humble/appendixB)
+- [付録A　ローンチファイルの書き方](https://github.com/AI-Robot-Book-Humble/appendixA)（作成中）
+- [付録B　アクション通信](https://github.com/AI-Robot-Book-Humble/appendixB)（作成中）
 - [付録C　ロボットアームの速度の運動学](https://github.com/AI-Robot-Book-Humble/appendixC)
 - [付録D　座標系と姿勢の表現](https://github.com/AI-Robot-Book-Humble/appendixD)
 - [付録E　tf：座標系の管理](https://github.com/AI-Robot-Book-Humble/appendixE)
