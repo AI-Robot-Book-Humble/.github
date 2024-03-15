@@ -3,9 +3,9 @@ ROS2とPythonで作って学ぶAIロボット入門（第2版準備中）の公�
 
 - [第1章　AIロボットをつくろう！]
 - [第2章　はじめてのROS2](https://github.com/AI-Robot-Book-Humble/chapter2)
-- [第3章　音声認識・合成](https://github.com/AI-Robot-Book-Humble/chapter3)
+- [第3章　音声認識・合成]
 - [第4章　ナビゲーション](https://github.com/AI-Robot-Book-Humble/chapter4)
-- [第5章　ビジョン](https://github.com/AI-Robot-Book-Humble/chapter5)
+- [第5章　ビジョン]
 - [第6章　マニピュレーション](https://github.com/AI-Robot-Book-Humble/chapter6)
 - [第7章　プランニング](https://github.com/AI-Robot-Book-Humble/chapter7)
 - [付録A　ローンチファイルの書き方](https://github.com/AI-Robot-Book-Humble/appendixA)
