@@ -13,5 +13,5 @@ ROS2とPythonで作って学ぶAIロボット入門（Humble版準備中）の�
 - [付録C　ロボットアームの速度の運動学](https://github.com/AI-Robot-Book-Humble/appendixC)
 - [付録D　座標系と姿勢の表現](https://github.com/AI-Robot-Book-Humble/appendixD)
 - [付録E　tf：座標系の管理](https://github.com/AI-Robot-Book-Humble/appendixE)
-- [各章の解答例](https://github.com/AI-Robot-Book-Humble/answers)
-- [正誤表](https://github.com/AI-Robot-Book-Humble/errata)
+- [各章の解答例](https://github.com/AI-Robot-Book-Humble/answers)（作成中）
+- [正誤表]
