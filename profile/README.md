@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/6745835/182372813-df921abe-93af-4328-b58e-cd58d17e9506.jpg" hspace="20" vspace="150">
 ROS2とPythonで作って学ぶAIロボット入門（第2版準備中）の公式サポートサイト（作成中）です．<br>  <br> 
 
-- [第1章　AIロボットをつくろう！](https://github.com/AI-Robot-Book-Humble/chapter1)
+- [第1章　AIロボットをつくろう！]
 - [第2章　はじめてのROS2](https://github.com/AI-Robot-Book-Humble/chapter2)
 - [第3章　音声認識・合成](https://github.com/AI-Robot-Book-Humble/chapter3)
 - [第4章　ナビゲーション](https://github.com/AI-Robot-Book-Humble/chapter4)
