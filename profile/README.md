@@ -16,4 +16,4 @@ ROS2とPythonで作って学ぶAIロボット入門 改訂第2版の公式サポ
 - [各章の解答例](https://github.com/AI-Robot-Book-Humble/answers)
 - [正誤表](https://github.com/AI-Robot-Book-Humble/errata)
 
-[お問い合わせ（Googleフォーム）](https://docs.google.com/forms/) - TODO
+[お問い合わせ（Googleフォーム）](https://docs.google.com/forms/d/e/1FAIpQLSdZ3Op24511SZ0u1KTtxDX5X39StMknxmtvAERlOz0UEkprDA/viewform?usp=header)
