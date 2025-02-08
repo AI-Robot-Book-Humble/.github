@@ -1,5 +1,5 @@
 <img align="left" src="../airobot_book_small.jpg" hspace="20" vspace="150">
-ROS2とPythonで作って学ぶAIロボット入門 改訂第2版の公式サポートサイトです．<br>各章のサンプルプログラムとサポート情報が満載ですよ．<br>  <br> 
+ROS2とPythonで作って学ぶAIロボット入門 改訂第2版の公式サポートサイトです．各章のサンプルプログラムとサポート情報が満載ですよ．<br>  <br> 
 
 - [第1章　AIロボットをつくろう！](https://github.com/AI-Robot-Book-Humble/chapter1)
 - [第2章　はじめてのROS2](https://github.com/AI-Robot-Book-Humble/chapter2)
